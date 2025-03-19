@@ -22,9 +22,9 @@ This project is a basic email Auth API built with Node.js, Express, and Mongoose
 
 ```sh
    PORT=
-  MONGODB_URI=
-  JWT_EXPIRE_AT=
-  JWT_SECRET=
+   MONGODB_URI=
+   JWT_EXPIRE_AT=
+   JWT_SECRET=
 ```
 
 ## Running the Application
@@ -43,12 +43,6 @@ npm run dev
 ```sh
 npm run build
 npm start
-```
-
-## Running test
-
-```sh
-npm test
 ```
 
 ## Endpoints
